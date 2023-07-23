@@ -1,0 +1,7 @@
+npm init
+serviceAccountKey.json
+data Firebase:
+cloud_storage.js 
+cloud_storage_video.js 
+
+and sedEmail.js
